@@ -79,3 +79,12 @@
 [submodule "service/sg-windows/src/github.com/kardianos/service"]
 	path = service/sg-windows/src/github.com/kardianos/service
 	url = https://github.com/kardianos/service
+[submodule "src/github.com/xeipuuv/gojsonschema"]
+	path = src/github.com/xeipuuv/gojsonschema
+	url = https://github.com/xeipuuv/gojsonschema.git
+[submodule "src/github.com/xeipuuv/gojsonreference"]
+	path = src/github.com/xeipuuv/gojsonreference
+	url = https://github.com/xeipuuv/gojsonreference.git
+[submodule "src/github.com/xeipuuv/gojsonpointer"]
+	path = src/github.com/xeipuuv/gojsonpointer
+	url = https://github.com/xeipuuv/gojsonpointer.git
